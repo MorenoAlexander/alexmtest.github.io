@@ -1,0 +1,182 @@
+{
+  "404/index.html": {
+    "mt": "Mon Jan 25 2021 11:37:50 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\404\\index.html"
+  },
+  "404.html": {
+    "mt": "Mon Jan 25 2021 11:37:50 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\404.html"
+  },
+  "about/index.html": {
+    "mt": "Mon Jan 25 2021 11:37:50 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\about\\index.html"
+  },
+  "assets/css/0.styles.10e19ced.css": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\css\\0.styles.10e19ced.css"
+  },
+  "assets/css/1.styles.6a39303f.css": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\css\\1.styles.6a39303f.css"
+  },
+  "assets/data/404/index.json": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\data\\404\\index.json"
+  },
+  "assets/data/about/index.json": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\data\\about\\index.json"
+  },
+  "assets/data/index.json": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\data\\index.json"
+  },
+  "assets/data/overview/index.json": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\data\\overview\\index.json"
+  },
+  "assets/fonts/MaterialIcons-Regular.2a61b00f.eot": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\fonts\\MaterialIcons-Regular.2a61b00f.eot"
+  },
+  "assets/fonts/MaterialIcons-Regular.51cf1d64.ttf": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\fonts\\MaterialIcons-Regular.51cf1d64.ttf"
+  },
+  "assets/fonts/MaterialIcons-Regular.703cf8f2.woff2": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\fonts\\MaterialIcons-Regular.703cf8f2.woff2"
+  },
+  "assets/fonts/MaterialIcons-Regular.84a37de8.woff": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\fonts\\MaterialIcons-Regular.84a37de8.woff"
+  },
+  "assets/js/app.6ddd57ad.js": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\js\\app.6ddd57ad.js"
+  },
+  "assets/js/app.c5474197.js": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\js\\app.c5474197.js"
+  },
+  "assets/js/page--node-modules-gridsome-app-pages-404-vue.f08f67c9.js": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\js\\page--node-modules-gridsome-app-pages-404-vue.f08f67c9.js"
+  },
+  "assets/js/page--src-pages-about-vue.a5fdabfa.js": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\js\\page--src-pages-about-vue.a5fdabfa.js"
+  },
+  "assets/js/page--src-pages-index-vue.4904521f.js": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\js\\page--src-pages-index-vue.4904521f.js"
+  },
+  "assets/js/page--src-pages-overview-vue.5acb410e.js": {
+    "mt": "Mon Jan 25 2021 11:37:49 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\js\\page--src-pages-overview-vue.5acb410e.js"
+  },
+  "assets/static/favicon.1539b60.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.1539b60.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.62d22cb.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.62d22cb.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.7b22250.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.7b22250.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.ac8d93a.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 10:00:16 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.ac8d93a.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.b9532cc.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.b9532cc.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.ce0531f.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.ce0531f.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.dc0cdc5.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.dc0cdc5.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "assets/static/favicon.f22e9f3.9bb7ffafafc09ac851d81afb65b8ef59.png": {
+    "mt": "Mon Jan 25 2021 11:37:52 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\assets\\static\\favicon.f22e9f3.9bb7ffafafc09ac851d81afb65b8ef59.png"
+  },
+  "index.html": {
+    "mt": "Mon Jan 25 2021 11:37:50 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\index.html"
+  },
+  "overview/index.html": {
+    "mt": "Mon Jan 25 2021 11:37:50 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\overview\\index.html"
+  },
+  "README.md": {
+    "mt": "Mon Jan 25 2021 09:53:41 GMT-0600 (GMT-06:00)",
+    "exists": true,
+    "state": 1,
+    "path": "C:\\Users\\MorenoA\\Documents\\Code\\static sites\\StockBotV2NodeJsTypeScript\\clientapp\\dist\\README.md"
+  }
+}

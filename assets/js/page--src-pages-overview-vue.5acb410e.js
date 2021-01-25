@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"6bt5":function(e,t,n){"use strict";n.r(t);var i={metaInfo:{title:"Overview"}},a=n("KHd+"),r=Object(a.a)(i,(function(){var e=this.$createElement,t=this._self._c||e;return t("Layout",[t("v-card",[t("v-card-title",[this._v("\n        This is an Overview page!\n    ")])],1)],1)}),[],!1,null,null,null);t.default=r.exports}}]);
